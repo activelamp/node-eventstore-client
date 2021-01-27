@@ -35,7 +35,8 @@
     "docs",
     "src",
     "index.js",
-    "index.d.ts"
+    "index.d.ts",
+    "webpack.config.js"
   ],
   "directories": {
     "lib": "lib",
