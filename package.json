@@ -1,5 +1,5 @@
 {
-  "name": "node-eventstore-client",
+  "name": "@activelamp/node-eventstore-client",
   "version": "0.2.17",
   "description": "A port of the EventStore .Net ClientAPI to Node.js",
   "main": "index.js",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicdex/node-eventstore-client.git"
+    "url": "git@github.com:activelamp/node-eventstore-client.git"
   },
   "keywords": [
     "eventstore",
